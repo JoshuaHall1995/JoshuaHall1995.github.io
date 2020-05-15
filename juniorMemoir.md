@@ -12,7 +12,7 @@ Thankfully that did not come to pass and the years since have been much kinder. 
 
 So this series shall explore the little lessons I learned to make the early stages of my career fall into place and go from a loud developer annoying everyone to a loud developer annloying everyone who gets stuff done. 
 
-{% for post in site.juniorMem %}
+{% for post in site.juniorMemoirs %}
 
 [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 ====================================================

@@ -12,7 +12,7 @@ technologies and concepts I try to come to grips with using the most basic of ve
 
 Hopefully after a read some of these will get a match, I know all to well the pain of zero connections.
 
-{% for post in site.tinderTech %}
+{% for post in site.tinderTechnology %}
 
 [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 ====================================================
