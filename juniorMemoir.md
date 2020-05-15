@@ -4,7 +4,6 @@ title: Junior Memoirs
 permalink: /juniorMemoirs/
 ---
 
-Junior Memoirs!
 ### Coming Soon!
 
 Occasionally I still wake up in a hot sweat as I have flashbacks to my Advanced Programming coursework in Univercity. Sleep deprived and with a single function trying to parse a crossword that has reached over 500 lines with variables named "giveMeMercy" I awake terrified that I going to eternally be a failure and end up moving back to Snodland to drink on a street corner. 

@@ -4,7 +4,6 @@ title: Technology Tinder
 permalink: /technologyTinder/
 ---
 
-Technology Tinder!
 ### Coming Soon!
 
 Like many people my age my righ thumb has seen some action swiping for company. It is amazing how little there is interesting about you
