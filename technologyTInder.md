@@ -12,14 +12,13 @@ technologies and concepts I try to come to grips with using the most basic of ve
 
 Hopefully after a read some of these will get a match, I know all to well the pain of zero connections.
 
-<div class="posts2">{% for post2 in site.tinderTech %}
+{% for post in site.posts %}
 
-<article class="post2">
+[{{ post.title }}]({{ site.baseurl }}{{ post.url }})
+====================================================
 
-# [{{ post2.title }}]({{ site.baseurl }}{{ post2.url }})
+{{ post.excerpt }}
 
-<div class="entry">{{ post2.excerpt }}</div>
+[Read More]({{ site.baseurl }}{{ post.url }})
 
-[Read More]({{ site.baseurl }}{{ post2.url }})</article>
-
-{% endfor %}</div>
+{% endfor %}
