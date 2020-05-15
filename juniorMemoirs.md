@@ -14,7 +14,7 @@ So this series shall explore the little lessons I learned to make the early stag
 
 {% for post in site.juniorMemoirs %}
 
-[{{ post.title }}]({{ site.baseurl }}{{ post.url }})
+[{{ post.title }}]({{ post.url }})
 ====================================================
 
 {{ post.excerpt }}
