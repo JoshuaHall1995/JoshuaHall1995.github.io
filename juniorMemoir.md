@@ -22,3 +22,14 @@ So this series shall explore the little lessons I learned to make the early stag
 [Read More]({{ site.baseurl }}{{ post.url }})
 
 {% endfor %}
+
+{% for post in site.tinderTech %}
+
+[{{ post.title }}]({{ site.baseurl }}{{ post.url }})
+====================================================
+
+{{ post.excerpt }}
+
+[Read More]({{ site.baseurl }}{{ post.url }})
+
+{% endfor %}
