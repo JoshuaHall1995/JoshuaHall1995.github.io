@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Technology Tinder
+permalink: /technologyTinder/
 ---
 
 Technology Tinder!
