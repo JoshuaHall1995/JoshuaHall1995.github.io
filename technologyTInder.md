@@ -1,7 +1,7 @@
 ---
 layout: page
-title: TechnologyTinder
-permalink: /technologyTinder/
+title: Technology Tinder
+slug: technologyTinder
 ---
 
 ### Coming Soon!
