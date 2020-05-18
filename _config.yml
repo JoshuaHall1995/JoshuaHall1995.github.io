@@ -89,6 +89,6 @@ collections:
   technologyTinder:
     output: true
     permalink: /:collection/:name
-    juniorMemoirs:
+  juniorMemoirs:
     output: true
     permalink: /:collection/:name
