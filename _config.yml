@@ -86,5 +86,9 @@ exclude:
   - CNAME
 
 collections:
-  - technologyTinder
-  - juniorMemoirs
+  technologyTinder:
+    output: true
+    permalink: /:collection/:name
+    juniorMemoirs:
+    output: true
+    permalink: /:collection/:name
