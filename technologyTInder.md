@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Technology Tinder
+title: TechnologyTinder
 permalink: /technologyTinder/
 ---
 
