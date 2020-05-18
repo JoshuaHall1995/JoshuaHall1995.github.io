@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Junior Memoirs
-permalink: /juniorMemoirs/
+slug: juniorMemoirs
 ---
 
 ### Coming Soon!
