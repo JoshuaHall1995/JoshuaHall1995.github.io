@@ -8,7 +8,7 @@ Occasionally I still wake up in a hot sweat as I have flashbacks to my Advanced 
 
 Thankfully that did not come to pass and the years since have been much kinder. But because it is all so recent I can still picture younger Josh and I wonder what I would have told him. 
 
-So this series shall explore the little lessons I learned to make the early stages of my career fall into place and go from a loud developer annoying everyone to a loud developer annloying everyone who gets stuff done. 
+So this series shall explore the little lessons I learned poetically recalled to a fictional younger version of myself. Who says therapy cant be free?
 
 {% for post in site.juniorMemoirs %}
 
