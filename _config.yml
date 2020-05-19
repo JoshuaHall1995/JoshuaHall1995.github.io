@@ -9,8 +9,7 @@ name: Joshua Hall
 description: Software Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-#avatar: https://avatars1.githubusercontent.com/u/16843650?s=400&u=3c94e52ec010a532a577d40d1226461eb29c8c8c&v=4
-avatar: {{ site.baseurl }}/images/joshProfile.jpg
+avatar: https://avatars1.githubusercontent.com/u/16843650?s=400&u=3c94e52ec010a532a577d40d1226461eb29c8c8c&v=4
 
 #
 # Flags below are optional
