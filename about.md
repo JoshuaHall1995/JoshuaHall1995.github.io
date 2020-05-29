@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<h1>Josh in a nutshell</h1>
+<h2>Josh in a nutshell</h2>
 
 A graduate from the prestigious University of Hull who has worked across a variety of exciting sectors: Manufacturing, Childcare and Boating. 
 
