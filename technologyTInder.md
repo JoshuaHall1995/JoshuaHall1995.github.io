@@ -8,7 +8,7 @@ Like many people my age my right thumb has seen some action swiping for company.
 when it is condensed down to a few hundred characters. This series of posts will be a collection of brief descriptions of different
 technologies and concepts I try to come to grips with using the most basic of verbage. 
 
-Hopefully after a read some of these will get a match, I know all to well the pain of zero connections.
+-----------------------------------
 
 {% for post in site.technologyTinder %}
 
