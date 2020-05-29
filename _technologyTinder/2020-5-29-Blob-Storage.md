@@ -10,11 +10,11 @@ Blob described by a melon.
 
 So you want to store some data, the format be dammed? Azure Blob Storage can do that as home for unstructured data in the cloud, with data kept in directory-like structures called Containers. Unlike other NOSQL options BLOB lets you store data without a specific data model or type. Like me on Tinder, it accepts all.
 
-[<img src="{{ site.baseurl }}/images/blobTinder.png" alt="Blob storage tinder" 
+<img src="{{ site.baseurl }}/images/blobTinder.png" alt="Blob storage tinder" 
     style="width: 400px;
     display: block;
     margin-left: auto;
-    margin-right: auto;"/>]({{ site.baseurl }}/)
+    margin-right: auto;"/>
 
 <h2>Types of Blob</h2>
 When writing to blob storage there are three types of blobs you can use.  These are each designed for specific use cases. 
