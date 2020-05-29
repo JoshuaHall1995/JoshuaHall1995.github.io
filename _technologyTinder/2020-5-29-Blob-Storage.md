@@ -3,13 +3,21 @@ layout: post
 title: Blob Storage
 permaLink: /2020-5-29-Blob-Storage/
 ---
-So you want to store some data, the format be dammed? Azure Blob Storage can do that as home for unstructured data in the cloud, with data kept in directory-like structures called Containers. Unlike other NOSQL options BLOB lets you store data without a specific data model or type. Like me on Tinder, it accepts all.
+So you want to store some data, the format be dammed? Azure Blob Storage can do that as home for unstructured data in the cloud, with data kept in directory-like structures called Containers. Unlike other NoSQL options BLOB lets you store data without a specific data model or type. Like me on Tinder, it accepts all.
 
 <img src="{{ site.baseurl }}/images/blobTinder.png" alt="Blob storage tinder" 
     style="width: 400px;
     display: block;
     margin-left: auto;
     margin-right: auto;"/>
+
+<h2>What is it?</h2>
+As mentioned above, Azure Blob Storage is a NoSQL storage solution. Offered as one of a variety of built in Azure storage options Blob can store random Blob Storage can offer writing and reading operations for any random data type which can run at the same time and scale massively. 
+
+This is useful for collections designed to take in thousands of records and because it was designed to be able to handle OS backups it can break large files down to reduce upload time and append changes where needed to existing blobs which can grow to multiple terabytes in size. 
+
+<h3>Helpful Tip:</h3>
+Blob does not care what you give. So if it is a file type you want to view you better specify the file type when you upload it. Usually all files are stored as an application/octet-stream by default. That means if you upload a funny picture or even a .json data file if you dont specify the type you will not be able to view the properties as expected in the portal. 
 
 <h2>Types of Blob</h2>
 When writing to blob storage there are three types of blobs you can use.  These are each designed for specific use cases. 
