@@ -3,8 +3,6 @@ layout: post
 title: Blob Storage
 permaLink: /2020-5-29-Blob-Storage/
 ---
-]({{ site.baseurl }}/)
-
 Blob Storage
 
 Blob described by a melon. 
@@ -17,7 +15,7 @@ So you want to store some data, the format be dammed? Azure Blob Storage can do 
     style="width: 400px;
     display: block;
     margin-left: auto;
-    margin-right: auto;"/>
+    margin-right: auto;"/>]({{ site.baseurl }}/)
 
 Types of Blob
 When writing to blob storage there are three types of blobs you can use.  These are each designed for specific use cases. 
