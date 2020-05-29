@@ -27,7 +27,7 @@ When writing to blob storage there are three types of blobs you can use.  These 
 
 (Thank you Microsoft for the smart wording) I butchered)
 
-<h2>An Odd Use Case </h2>
+<h2>Real Life Use Case </h2>
 
 A senior developer I was working with explained a less then compelling case for the Blob: as a happy little placeholder. 
 
