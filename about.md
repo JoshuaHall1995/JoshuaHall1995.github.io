@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Wank! 
+Josh in a nutshell.
 
-### More Information
+A graduate from the prestigious University of Hull who has worked across a variety of exciting sectors: Manufacturing, Childcare and Boating. 
 
-A place to include any other types of information that you'd like to include about yourself.
-
+Josh, despite numerous character flaws and conspicuous life choices, has endured a mildly successful career.
