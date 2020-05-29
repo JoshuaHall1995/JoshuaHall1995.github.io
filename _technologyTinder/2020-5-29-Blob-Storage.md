@@ -3,11 +3,10 @@ layout: post
 title: Blob Storage
 permaLink: /2020-5-29-Blob-Storage/
 ---
-Blob Storage
 
 Blob described by a melon. 
 
-What is it? 
+<h2>What is it? </h2>
 
 So you want to store some data, the format be dammed? Azure Blob Storage can do that as home for unstructured data in the cloud, with data kept in directory-like structures called Containers. Unlike other NOSQL options BLOB lets you store data without a specific data model or type. Like me on Tinder, it accepts all.
 
@@ -17,7 +16,7 @@ So you want to store some data, the format be dammed? Azure Blob Storage can do 
     margin-left: auto;
     margin-right: auto;"/>]({{ site.baseurl }}/)
 
-Types of Blob
+<h2>Types of Blob</h2>
 When writing to blob storage there are three types of blobs you can use.  These are each designed for specific use cases. 
 
 * Block blobs: Block blobs are composed of blocks and are ideal for storing text or binary files, and for uploading large files efficiently. Reading/writing is sped up by breaking the files into thousands of smaller blocks which can be fetched asynchronously.  Perfect for normal everyday usage.
@@ -28,7 +27,7 @@ When writing to blob storage there are three types of blobs you can use.  These 
 
 (Thank you Microsoft for the smart wording) I butchered)
 
-An Odd Use Case
+<h2>An Odd Use Case </h2>
 
 A senior developer I was working with explained a less then compelling case for the Blob: as a happy little placeholder. 
 
@@ -38,14 +37,14 @@ Inevitably the perfect solution for the problem ends up not being the one implem
 
 I think this is an interesting perspective and if you have already committed to the Azure Cloud using an inbuilt data storage solution unit you know if Cosmos is correct for your scenario and wallet it is a good way to go.  Iterative improvements as infrastructure. 
 
-Access Tiers
+<h2>Access Tiers</h2>
 When you create a storage account you are able to specify the access tier. Each is designed with unique use cases in mind. 
 
 * Hot Access Tier: Out of the three options, the hot access tier is the most optimised for data that is accessed frequently. It offers the lower access (read-write) cost, but the highest storage cost.
 * Cool Access Tier: This option is better suited for use cases where data will remain stored for at least 30 days and is not accessed frequently. Compared to Hot Access Tiers,, this tier offers lower storage cost and higher access costs.
 * Archive Access Tier: Archive storage is designed for data that doesn’t need to be accessed immediately. This tier offers higher data retrieval costs, and also higher data access latency. It is designed for use cases where data will be stored for more than 180 days and is rarely accessed.
 
-Conclusion
+<h2>Conclusion</h2>
 
 Blob storage provides users with a storage solution that can easily be adapted to the user’s needs which is highly available and can be geo-replicated. Azure Blob Storage is a suitable all in one solution that may not be as advanced in regards to all the  No-Sql features solutions like CosmosDb can provide but as a jack of all traits it is a good option.
 
