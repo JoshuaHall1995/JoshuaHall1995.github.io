@@ -11,9 +11,8 @@ Thankfully that did not come to pass and the years since have been much kinder. 
 
 So this series shall explore the little lessons I learned poetically recalled to a fictional younger version of myself. Who says therapy cant be free?
 
-<!-- ----------------------------------- -->
+-----------------------------------
 
-<!-- 
 {% for post in site.juniorMemoirs %}
 
 [{{ post.title }}]({{ post.url }})
@@ -23,4 +22,4 @@ So this series shall explore the little lessons I learned poetically recalled to
 
 [Read More]({{ site.baseurl }}{{ post.url }})
 
-{% endfor %} -->
+{% endfor %}
