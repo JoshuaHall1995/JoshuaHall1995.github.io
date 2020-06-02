@@ -16,3 +16,8 @@ Passions include testing, watching builds and pair programming (with a puppet of
     display: block;
     margin-left: auto;
     margin-right: auto;"/>
+
+Want a CV? Click here. 
+<form method="get" action="/documents/JoshCV2020.pdf">
+   <button type="submit">Download!</button>
+</form>
