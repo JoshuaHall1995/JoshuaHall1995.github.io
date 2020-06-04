@@ -28,3 +28,5 @@ To go above and beyond finger and facial recognition were adapted. But once you 
 With that, and an inherent interest in Microsoft Cognitive services, a grandiose idea come to mind. What is a combination of mental intelligence and specific vocals could be used for authentication? A dynamic access policy based on the speaker and their phrasing.
 
 Thus the concept of Rap Authentication was imagined. This collection of articles will cover the journey as I try to go from being ignored by the speech to text system to being able to decide whether or not I can order a pizza based on how well I can rhyme “orange” with “door-hinge”.
+
+<a style="text-align:center" href="https://joshuahall1995.github.io/labratory/2020-6-04-rap-auth-part-two">Next Part</a>
