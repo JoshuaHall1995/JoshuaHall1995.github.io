@@ -14,7 +14,7 @@ in Josh's Lab!" </p>
     margin-left: auto;
     margin-right: auto;"/>]({{ site.baseurl }}/)
 
-<small>(Disclaimer this would have been called Josh's playgroud but that had negative connocations)</small>
+<h6>(Disclaimer this would have been called Josh's playgroud but that had negative connocations)</h6>
 
 Sometimes, when the sun hits just right and the Netflix binge isnt quite hitting the spot it is time to roll out a new repo,
 write to the console and have some fun creating errors I am not being paid to fix.
