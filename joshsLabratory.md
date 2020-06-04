@@ -9,7 +9,7 @@ But failing tests blow his experiments to smithereens!
 There is gloom, and doom while things go boom
 in Josh's Lab!"
 
-[<img src="{{ site.baseurl }}/images/dexterLab.png" alt="Animated Josh" 
+[<img src="{{ site.baseurl }}/images/dexterLab.jpeg" alt="Animated Josh" 
     style="width: 400px; 
     display: block;
     margin-left: auto;
