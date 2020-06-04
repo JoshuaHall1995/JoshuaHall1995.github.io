@@ -3,7 +3,6 @@ layout: post
 title: Rap Authentication - Part One - Spittin Bars
 permaLink: /2020-6-04-Rap-Auth-Part-Two/
 ---
-
 Before I can even consider authentication I need to make sure my voice can be heard and acknowledged. A simple speech to text service is required, something the Microsoft Speech Api can easily cover...
 
 And that Macs hate if you are trying to do it for a console app. Atleast in my short experience.
@@ -11,7 +10,7 @@ And that Macs hate if you are trying to do it for a console app. Atleast in my s
 EXPLOSION ONE!
 The Speech Recognition API has some easy to follow setup examples. Within 10 minutes I was good to go.
 
-https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/quickstart/csharp/dotnetcore/from-microphone
+<h6>https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/quickstart/csharp/dotnetcore/from-microphone</h6>
 
 And then “NOMATCH: Speech could not be recognized.” arrived and my day got less fun. The smart thing about the RecognizeOnceAsync method is that it is designed to pick up audio automatically. No hassle all positive vibes. 
 
@@ -29,13 +28,13 @@ I created a nice iRhymeRepository as I was not sure if I would use a third part 
 
 Console Application rolled up, the test delayed and I was in a world of wonder and excitement passing down my “hello” to rhyme with my hardcoded string.
 
-“And to you all I say hello,
-Money on tap, the crowd get low”
+<i style="text-align:center">“And to you all I say hello,
+Money on tap, the crowd get low” </i>
 
- Was my expectation. Hell I would have accepted,
+Was my expectation. Hell I would have accepted:
 
-“And to you all I say hello,
-Money on tap, the crowd get buffalo”.
+<i style="text-align:center">“And to you all I say hello,
+Money on tap, the crowd get buffalo” </i>
 
 Instead I got a poetic,
 
@@ -51,7 +50,7 @@ Thankfully because I had decoupled what I was doing because I have inherent trus
 
 I switched it out for the equally well named RhymeZone, which even had its score returned as an integer. Basically an upgrade.
 
-(Details here: https://www.datamuse.com/api/)
+<h6>(Details here: https://www.datamuse.com/api/)<h6>
 
 For rap, since the high level skills can’t all be generated from my own brain directly, I needed a way of creating test bars. 
 

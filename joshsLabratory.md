@@ -3,10 +3,10 @@ layout: page
 title: Josh's Laboratory
 permalink: /joshsLaboratory/
 ---
-"In Josh's Laboratory, lives the most average boy you've ever seen!
-But failing tests blow his experiments to smithereens!
-There is gloom, and doom while things go boom
-in Josh's Lab!"
+<p style="text-align:center">"In Josh's Laboratory, lives the most average boy you've ever seen! <br>
+But failing tests blow his experiments to smithereens! <br>
+There is gloom, and doom while things go boom <br>
+in Josh's Lab!" </p>
 
 [<img src="{{ site.baseurl }}/images/dexterLab.jpeg" alt="Animated Josh" 
     style="width: 400px; 
@@ -14,7 +14,7 @@ in Josh's Lab!"
     margin-left: auto;
     margin-right: auto;"/>]({{ site.baseurl }}/)
 
-(Disclaimer this would have been called Josh's playgroud but that had negative connocations)
+<h6>(Disclaimer this would have been called Josh's playgroud but that had negative connocations)</h6>
 
 Sometimes, when the sun hits just right and the Netflix binge isnt quite hitting the spot it is time to roll out a new repo,
 write to the console and have some fun creating errors I am not being paid to fix.
