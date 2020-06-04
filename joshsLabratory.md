@@ -19,6 +19,8 @@ in Josh's Lab!"
 Sometimes, when the sun hits just right and the Netflix binge isnt quite hitting the spot it is time to roll out a new repo,
 write to the console and have some fun creating errors I am not being paid to fix.
 
+-----------------------------------
+
 {% for post in site.labratory %}
 
 [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
