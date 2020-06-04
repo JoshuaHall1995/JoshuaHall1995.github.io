@@ -6,7 +6,7 @@ permaLink: /2020-6-04-Rap-Auth-Part-One/
 
 For a short period of my life I was a member of a middle class rap group that took beer gardens and office meeting rooms by storm with displays of lyrical genius as they redefined poetry as an art form.
 
-[<img src="{{ site.baseurl }}/images/rapJosh.png" alt="RapJosh" 
+[<img src="{{ site.baseurl }}/images/rapJosh.jpg" alt="RapJosh" 
     style="width: 400px; 
     display: block;
     margin-left: auto;
