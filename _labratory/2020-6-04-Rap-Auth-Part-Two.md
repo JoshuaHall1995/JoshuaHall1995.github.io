@@ -10,7 +10,7 @@ And that Macs hate if you are trying to do it for a console app. Atleast in my s
 EXPLOSION ONE!
 The Speech Recognition API has some easy to follow setup examples. Within 10 minutes I was good to go.
 
-<h6>https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/quickstart/csharp/dotnetcore/from-microphone</h6>
+<h6>Details here: https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/quickstart/csharp/dotnetcore/from-microphone</h6>
 
 And then “NOMATCH: Speech could not be recognized.” arrived and my day got less fun. The smart thing about the RecognizeOnceAsync method is that it is designed to pick up audio automatically. No hassle all positive vibes. 
 
@@ -22,7 +22,9 @@ If I was worried about looking like a know it all I would mention the solution t
 
 Specifically, if I was going to authenticate via raps I needed a way of creating and identifying them. 
 
-A quick google and I discovered the RhymeBrain api https://rhymebrain.com/api.html, and this told me that apparently rhyming has different values for strength of the rhyme with 300 or above a perfect rhyme. Naturally all of my rhymes are 300 quality.
+A quick google and I discovered the RhymeBrain api, and this told me that apparently rhyming has different values for strength of the rhyme with 300 or above a perfect rhyme. Naturally all of my rhymes are 300 quality.
+
+<h6>(Details here: https://rhymebrain.com/api.html)</h6>
 
 I created a nice iRhymeRepository as I was not sure if I would use a third part or my own in the long term and because I recall a senior friend of mine hating interfaces and it has since always reminded me of their existence. 
 
@@ -50,7 +52,7 @@ Thankfully because I had decoupled what I was doing because I have inherent trus
 
 I switched it out for the equally well named RhymeZone, which even had its score returned as an integer. Basically an upgrade.
 
-<h6>(Details here: https://www.datamuse.com/api/)<h6>
+<h6>(Details here: https://www.datamuse.com/api/)</h6>
 
 For rap, since the high level skills can’t all be generated from my own brain directly, I needed a way of creating test bars. 
 
